@@ -7,8 +7,8 @@
 ## Research Questions:
 - How does the United States compare to other countries in terms of electricity production?
 - How does population impact electricity production?
-- How do the ratios of fossil fuel vs renewables for electricity compare in countries?
-- What do we predict the future fossil fuel to renewable ratio will look like for the U.S.?
+- How do the ratios of non-renewables vs renewables for electricity compare in countries?
+- What do we predict the future non-renewables to renewable ratio will look like for the U.S.?
 ## Datasets and APIs Used:
 - Electricity Production Dataset from Kaggle.com: https://www.kaggle.com/datasets/sazidthe1/global-electricity-production
 - Geoapify API: https://apidocs.geoapify.com/
