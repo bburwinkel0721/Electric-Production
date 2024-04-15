@@ -19,3 +19,8 @@
 - Summary goes here
 ### Conclusions/Limitations
 - Conclusions and limitations go here
+
+# Limitations:
+1. The dataset we used is limited to 45 countries. Our graphs and/or analysis may be different if we were able to see all countries in the world.
+2. The current dataset ranges between the years of 2010 to 2023, our analysis would be more confident and accurate if we had more years to pull data from
+3. Some of the countries in the dataset do not have data extending back as far as others. This could make it harder to compare all of the countries against one another. 
