@@ -13,3 +13,5 @@
 - The United States does appear to be shifting towards utilizing renewable energy sources to produce its electricity, but potentially at a slower pace than other countries within the data set.
 ### Limitations
 - Some of the countries in the dataset do not have data extending back as far as others. This could make it harder to make predictions based off them.
+- Our analysis would be more extensive if we were able to see data from all 195 countries.
+- Not able to see additional data on the countries prior to 2010
