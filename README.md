@@ -3,7 +3,7 @@
 ## Team Members: Rachel, Luke, Victor, and Ben
 
 ## Project Description/Outline:
-- Using the electric production data set found on Kaggle, the latitudes/longitudes of each country involved from Geoapify, and the population data of each country found on the API Ninjas, our group would like to explore the electricity production of countries around the world to see what kind of trends and relationships we can identify. We are also particularly interested in how the United States compares to the rest of the world regarding our electricity production. 
+- We are Analysis at the UN Security Council which is a council within the UN Assembely, and one of our main focuses is climate change so we did a deep dive of one of the leading factors, electricity production within countries. Using the electric production data set found on Kaggle, the latitudes/longitudes of each country involved from Geoapify, and the population data of each country found on the API Ninjas, our group would like to explore the electricity production of countries around the world to see what kind of trends and relationships we can identify. We are also particularly interested in how the United States compares to the rest of the world regarding our electricity production. 
 ## Research Questions:
 - How does the United States compare to other countries in terms of electricity production?
 - How does population impact electricity production?
