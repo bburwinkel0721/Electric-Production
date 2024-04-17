@@ -13,3 +13,5 @@
 - Electricity Production Dataset from Kaggle.com: https://www.kaggle.com/datasets/sazidthe1/global-electricity-production
 - Geoapify API: https://apidocs.geoapify.com/
 - Country Information API: https://api-ninjas.com/api/country
+## Presentation Link
+- https://docs.google.com/presentation/d/1rWxJz80r1MoOWxdrBjzqtvuwxe6Q-TNbVxU5VuUYH5g/edit?usp=sharing
