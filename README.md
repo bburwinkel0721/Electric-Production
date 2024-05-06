@@ -10,8 +10,7 @@
 - How do the ratios of non-renewables vs renewables for electricity compare in countries?
 - What do we predict the future non-renewables to renewable ratio will look like for the U.S.?
 ## Datasets and APIs Used:
-- Electricity Production Dataset from Kaggle.com: https://www.kaggle.com/datasets/sazidthe1/global-electricity-production
-- Geoapify API: https://apidocs.geoapify.com/
-- Country Information API: https://api-ninjas.com/api/country
-## Presentation Link
-- https://docs.google.com/presentation/d/1rWxJz80r1MoOWxdrBjzqtvuwxe6Q-TNbVxU5VuUYH5g/edit?usp=sharing
+- [Electricity Production Dataset from Kaggle.com](https://www.kaggle.com/datasets/sazidthe1/global-electricity-production)
+- [Geoapify API](https://apidocs.geoapify.com/)
+- [Country Information API](https://api-ninjas.com/api/country)
+## [Presentation Link](https://docs.google.com/presentation/d/1rWxJz80r1MoOWxdrBjzqtvuwxe6Q-TNbVxU5VuUYH5g/edit?usp=sharing)
